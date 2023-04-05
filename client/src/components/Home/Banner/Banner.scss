@@ -6,7 +6,6 @@
   position: relative;
   background-image: linear-gradient(to right, #8e2de2, #4a00e0);
   
-
   //dynamic way to make it responsive
   @include md {
     height: calc(100vh - 80px);
@@ -29,6 +28,7 @@
 
     .banner-img {
       position: relative;
+      height: 100%;
       z-index: 9;
       width: 200px;
       margin-bottom: 20px;
