@@ -13,7 +13,7 @@ import "./Header.scss";
 
 
 const Header = () => {
-    const [scrolled, setScreolled] = useState(false) ;
+    const [scrolled, setScreolled] = useState(false);
 
     const handleScroll = () => {
         const offset = window.scrollY;
