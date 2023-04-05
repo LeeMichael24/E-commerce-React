@@ -35,7 +35,7 @@ const Header = () => {
           <li>About</li>
           <li>Categories</li>
         </ul>
-        <div className="center"> WebGenius Solutions </div>
+        <div className="center"> WebGenius Agency </div>
         <div className="right">
           <TbSearch />
           <AiOutlineHeart />

@@ -1,6 +1,7 @@
 import "./Banner.scss";
 
 import BannerImg from "../../../assets/banner-img.png";
+import Hasbi from "../../../assets/hasbi.png"
 
 const Banner = () => {
   return (
@@ -22,6 +23,8 @@ const Banner = () => {
           </div>
         </div>
         <img className="banner-img" src={BannerImg} alt="" />
+        {/* hasbi Pic */}
+        {/* <img className="banner-img" src={Hasbi} alt="" /> */}
       </div>
     </div>
   );
