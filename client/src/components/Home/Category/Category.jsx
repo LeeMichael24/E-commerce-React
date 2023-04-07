@@ -13,18 +13,18 @@ const Category = () => {
                 <div className="category">
                     <img src={ cat1 } alt=""/>
                 </div>
-                <div className="Category">
+                <div className="category">
                     <img src={ cat2 } alt=""/>
                 </div>
-                <div className="Category">
+                <div className="category">
                     <img src={ cat3 } alt=""/>
                 </div>
-                <div className="Category">
+                <div className="category">
                     <img src={ cat4 } alt=""/>
                 </div>
             </div>
         </div>
     )
-}
+} 
 
 export default Category;
