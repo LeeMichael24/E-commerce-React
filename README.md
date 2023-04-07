@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://create-react-app.dev/docs/getting-started/).
 
+note easily change to [Vite](https://vitejs.dev/guide/).
 ## Available Scripts
 
 In the project directory, you can run:
