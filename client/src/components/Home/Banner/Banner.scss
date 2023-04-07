@@ -70,8 +70,9 @@
         line-height: 1;
         margin-bottom: 20px;
 
+        /* To change the size in case of big name product */
         @include md {
-          font-size: 180px;
+          font-size: 170px;
         }
       }
 
